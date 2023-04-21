@@ -1,12 +1,11 @@
 # Proiect Atestat Clasa 12A
 
-<br>
-
 ***
+
+<br>
 
 ### Elev: Rusu Marian-Alexandru
 
-<br>
 
 ### Proiectul este un `Game Room`, joci jocuri de la care primesti puncte si ajungi cat mai sus in top-ul jucatorilor
 
@@ -25,3 +24,8 @@ ___
 * [ ] Leaderboard
 * [ ] Admin System
 * [ ] Bug Report Feature *
+
+#### Tehnologii folosite:
+
+* MYSQL
+* C#
