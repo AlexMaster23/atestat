@@ -3,22 +3,15 @@
 <br>
 
 ***
-___
---- 
-
-<br>
 
 ### Elev: Rusu Marian-Alexandru
 
 <br>
 
-### Proiectul este un `Game Room`, joci jocuri primesti puncte si ajungi cat mai sus in top-ul jucatorilor
+### Proiectul este un `Game Room`, joci jocuri de la care primesti puncte si ajungi cat mai sus in top-ul jucatorilor
 
-***
 ___
---- 
 
-<br>
 
 #### RoadMap:
 
